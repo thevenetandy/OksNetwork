@@ -1,0 +1,8 @@
+name: OksApi
+version: 1.0
+description: OksApi
+author: thevenetandy
+main: fr.thevenetandy.oks.api
+commands:
+    oks:
+        description: OksApi Base Command
