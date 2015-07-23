@@ -1,5 +1,15 @@
 package fr.thevenetandy.oks.api;
 
-public class OksApi {
+import org.bukkit.plugin.java.JavaPlugin;
 
+public class OksApi extends JavaPlugin {
+
+	public void onEnable() {
+		
+	}
+	
+	public void onDisable() {
+		
+	}
+	
 }
